@@ -1,43 +1,19 @@
-## Me
+<div style="display: inline_block"><br/>
+	<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  	<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+	<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div><br/>
 
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-red">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-green">
-  <img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/JS-yellow">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GO-blue">
-  
-</div>
 
-```java
-package developer.JF;
+### Olá, eu sou Iacopo Sabbatini!👋
 
-import java.skill.programComputer;
+Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas pelo Senac. Sou apaixonado por tecnologia, jogos e desenvolvimento de software e sempre em busca de aprimorar minhas habilidades.
 
-public AboutMe {
-    public String name = "Iacopo Sabbatini";
-    private Integer age = 21;
-    private String focusOn = "Back-End";
-    
-    public AboutMe() {}
-    
-    public void showSomeAboutMe() {
- 
-       🖥️ Sytems Development Student at SENAC
-       🔭 I'm interested by GAMES
-       🌱 I’m currently learning JAVA 
-       ⚡️ Fun fact: I'm did EXCEL, PowerPoint, Photoshop, CorelDraw and Administration
-       🔎 Looking for: System Development Job
-        🧰 At the moment I'm almost being hired as an Administrative Assistant, but I intend to work as a programmer!
+Aqui no meu GitHub, você vai encontrar projetos práticos, códigos e aprendizados que estão fazendo parte da minha jornada como desenvolvedor.
 
-    }
-}
-```
+Fique à vontade para explorar e acompanhar minha evolução! 🚀
 
-<div align="right">
-  <img align="center" alt="DJF-CSS" display="flex" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  
-  <img align="center" alt="DJF-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="DJF-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">  
-  <img align="center" alt="DJF-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-</div>
+![Iacopo Sabbatini GitHub stats](https://github-readme-stats.vercel.app/api?username=IacopoSabbatini&show_icons=true&theme=radical)
+
+[![Instragram](https://www.instagram.com/iacopo_giovanni/)
+
