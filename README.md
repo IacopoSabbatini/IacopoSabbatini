@@ -15,6 +15,7 @@ Aqui no meu GitHub, você vai encontrar projetos práticos, códigos e aprendiza
 Fique à vontade para explorar e acompanhar minha evolução! 🚀
 
 ![Iacopo Sabbatini GitHub stats](https://github-readme-stats.vercel.app/api?username=IacopoSabbatini&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IacopoSabbatini&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="davi-rdgr's Top Languages">
 
 
 
