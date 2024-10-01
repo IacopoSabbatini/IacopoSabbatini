@@ -15,7 +15,6 @@ Aqui no meu GitHub, você vai encontrar projetos práticos, códigos e aprendiza
 Fique à vontade para explorar e acompanhar minha evolução! 🚀
 
 ![Iacopo Sabbatini GitHub stats](https://github-readme-stats.vercel.app/api?username=IacopoSabbatini&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IacopoSabbatini)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
